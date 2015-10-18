@@ -1,0 +1,31 @@
+{
+    "name": "lol-inibin-parser",
+    "license": "MIT",
+    "description": "A parser for .inibin files from League of Legends.",
+    "version": "0.9.0",
+    "homepage": "https://github.com/Pupix/lol-inibin-parser",
+    "author": {
+        "name": "Robert Manolea",
+        "email": "manolea.robert@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pupix/lol-inibin-parser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pupix/lol-inibin-parser/issues"
+    },
+    "dependencies": {
+        "lol-file-parser": "*",
+        "expandjs": "*",
+        "mkdirp": "*",
+        "lol-hash-table": "*",
+        "xp-fs": "*"
+    },
+    "keywords": [
+        "file parser",
+        "league of legends",
+        "lol",
+        "inibin"
+    ]
+}
